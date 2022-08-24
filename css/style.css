@@ -1,0 +1,50 @@
+/*.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}*/
+.header{
+     
+    height: 80px;
+    /*max-height: 20px;
+    min-height: 10px;
+    */
+    background-color: brown;
+}
+.wrapper{
+      overflow: hidden;
+      border: 3px solid rgb(30, 243, 23);
+}
+.blog{
+    float: left;
+    width: 40%;
+    height: 200px;
+    background-color: blue;
+    
+}
+.contract{
+    float: right;
+    width: 60%;
+    height: 200px;
+    background-color: rgb(222, 236, 22);
+
+}
+.footer{
+    height: 20px;
+    background-color: black;
+    /*clear: both;*/
+}
+
+.box{
+    float: left;
+    width: 33.33%;
+    height: 80px;
+
+}
+.red{
+    background-color: brown;
+
+}
+.green{
+    background-color: green;
+}
